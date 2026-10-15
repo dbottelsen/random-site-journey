@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.env
+*.env
+
+Untitled-1.ipynb
+journey Analytics.ipynb
+journey_app_backup 10 5 2026.py
+web_site_notebook_2.ipynb
+web_site_notebook_3.ipynb
+web_site_notebook_4.ipynb
+Program Structure.docx
+st.session_state.py
